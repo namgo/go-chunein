@@ -2,4 +2,4 @@
 
 Browse tune-in and other OPML providers and relay music to my VLC For Android device
 
-Thanks to "github.com/gilliek/go-opml/opml"
+Thanks to "github.com/gilliek/go-opml"
